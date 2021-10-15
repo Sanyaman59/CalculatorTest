@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="Calculator"
+      id="8d23689b-d31a-43c1-bb43-4707a76a0862"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="Calculator"
+      id="8d23689b-d31a-43c1-bb43-4707a76a0862"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

@@ -1,0 +1,12 @@
+C:\Users\User\Documents\Ranorex\RanorexStudio Projects\MyTest1\Calculator\bin\Debug\Calculator.rxtmg
+C:\Users\User\Documents\Ranorex\RanorexStudio Projects\MyTest1\Calculator\bin\Debug\Calculator.rxtst
+C:\Users\User\Documents\Ranorex\RanorexStudio Projects\MyTest1\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\User\Documents\Ranorex\RanorexStudio Projects\MyTest1\Calculator\bin\Debug\Calculator.xml
+C:\Users\User\Documents\Ranorex\RanorexStudio Projects\MyTest1\Calculator\bin\Debug\Calculator.exe
+C:\Users\User\Documents\Ranorex\RanorexStudio Projects\MyTest1\Calculator\bin\Debug\Calculator.pdb
+C:\Users\User\Documents\Ranorex\RanorexStudio Projects\MyTest1\Calculator\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\User\Documents\Ranorex\RanorexStudio Projects\MyTest1\Calculator\obj\x86\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Ranorex\RanorexStudio Projects\MyTest1\Calculator\obj\x86\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Ranorex\RanorexStudio Projects\MyTest1\Calculator\obj\x86\Debug\Calculator.csproj.CopyComplete
+C:\Users\User\Documents\Ranorex\RanorexStudio Projects\MyTest1\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\User\Documents\Ranorex\RanorexStudio Projects\MyTest1\Calculator\obj\x86\Debug\Calculator.pdb

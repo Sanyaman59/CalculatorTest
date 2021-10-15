@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="14.04s"
+		durationms="14044"
+		type="root"
+		rid="1c41d5c83ead6a8"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="User"
+		rxversion="10.1.1.0"
+		host="WINDEV2108EVAL"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1920x1080"
+		timestamp="10/6/2021 6:00:42 AM"
+		timestampiso="2021-10-06T13:00:42"
+		endtime="10/6/2021 6:00:56 AM"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:03.671"
+			timeRelativeToTestModuleStartTime="00:03.671"
+			timeWallClock="06:00:45"
+			time="00:03.671"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Calculator.ClearButton' at 26;22.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/winapp[@packagename='Microsoft.WindowsCalculator']/?/?/container[@automationid='DisplayControls']/button[@automationid='clearButton']"
+				itempath="?/?/container[@automationid='DisplayControls']/button[@automationid='clearButton']"
+				fullname="CalculatorRepository.Calculator.ClearButton"
+				id="2324924cad0e45c38d79c72c51a9db36"
+				timeout="60000"
+				codefile="C:\Users\User\Documents\Ranorex\RanorexStudio Projects\MyTest1\Calculator\Recording1.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.231"
+			timeRelativeToTestModuleStartTime="00:05.231"
+			timeWallClock="06:00:47"
+			time="00:05.231"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Calculator.NumberPad.Num1Button' at 46;19.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/winapp[@packagename='Microsoft.WindowsCalculator']/?/?/container[@automationid='NumberPad']/button[@automationid='num1Button']"
+				itempath="button[@automationid='num1Button']"
+				fullname="CalculatorRepository.Calculator.NumberPad.Num1Button"
+				id="5b3f45eb21f84c478fe66fa92874f072"
+				timeout="90000"
+				codefile="C:\Users\User\Documents\Ranorex\RanorexStudio Projects\MyTest1\Calculator\Recording1.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.195"
+			timeRelativeToTestModuleStartTime="00:06.195"
+			timeWallClock="06:00:48"
+			time="00:06.195"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Explorer.List1' at 848;579.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/desktop[@processname='explorer']/?/?/list[@controlid='1']"
+				itempath="?/?/list[@controlid='1']"
+				fullname="CalculatorRepository.Explorer.List1"
+				id="5cc42ff3b55545be9954bab73b5c0223"
+				timeout="60000"
+				codefile="C:\Users\User\Documents\Ranorex\RanorexStudio Projects\MyTest1\Calculator\Recording1.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.695"
+			timeRelativeToTestModuleStartTime="00:06.695"
+			timeWallClock="06:00:48"
+			time="00:06.695"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Calculator.NumberPad.Num3Button' at 23;19.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/winapp[@packagename='Microsoft.WindowsCalculator']/?/?/container[@automationid='NumberPad']/button[@automationid='num3Button']"
+				itempath="button[@automationid='num3Button']"
+				fullname="CalculatorRepository.Calculator.NumberPad.Num3Button"
+				id="7106d23768844a1c9d61bfb27ddb8211"
+				timeout="90000"
+				codefile="C:\Users\User\Documents\Ranorex\RanorexStudio Projects\MyTest1\Calculator\Recording1.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.817"
+			timeRelativeToTestModuleStartTime="00:07.817"
+			timeWallClock="06:00:50"
+			time="00:07.817"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Calculator.NumberPad.Num4Button' at 33;25.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/winapp[@packagename='Microsoft.WindowsCalculator']/?/?/container[@automationid='NumberPad']/button[@automationid='num4Button']"
+				itempath="button[@automationid='num4Button']"
+				fullname="CalculatorRepository.Calculator.NumberPad.Num4Button"
+				id="0e43429046ab4be3a3e8f57eccc64ed1"
+				timeout="90000"
+				codefile="C:\Users\User\Documents\Ranorex\RanorexStudio Projects\MyTest1\Calculator\Recording1.cs"
+				codeline="98"
+				itemindex="4"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.728"
+			timeRelativeToTestModuleStartTime="00:08.728"
+			timeWallClock="06:00:51"
+			time="00:08.728"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Calculator.NumberPad.Num5Button' at 22;27.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/winapp[@packagename='Microsoft.WindowsCalculator']/?/?/container[@automationid='NumberPad']/button[@automationid='num5Button']"
+				itempath="button[@automationid='num5Button']"
+				fullname="CalculatorRepository.Calculator.NumberPad.Num5Button"
+				id="06eaa3e170f14b49a8c9ff3d4583e99f"
+				timeout="90000"
+				codefile="C:\Users\User\Documents\Ranorex\RanorexStudio Projects\MyTest1\Calculator\Recording1.cs"
+				codeline="102"
+				itemindex="5"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.663"
+			timeRelativeToTestModuleStartTime="00:09.663"
+			timeWallClock="06:00:51"
+			time="00:09.663"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Calculator.SquareRootButton' at 31;34.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/winapp[@packagename='Microsoft.WindowsCalculator']/?/?/container[@automationid='StandardFunctions']/button[@automationid='squareRootButton']"
+				itempath="?/?/container[@automationid='StandardFunctions']/button[@automationid='squareRootButton']"
+				fullname="CalculatorRepository.Calculator.SquareRootButton"
+				id="46ff512c99054d869fc136ac43a67ba5"
+				timeout="60000"
+				codefile="C:\Users\User\Documents\Ranorex\RanorexStudio Projects\MyTest1\Calculator\Recording1.cs"
+				codeline="106"
+				itemindex="6"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.395"
+			timeRelativeToTestModuleStartTime="00:10.395"
+			timeWallClock="06:00:52"
+			time="00:10.395"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Calculator.MinusButton' at 47;12.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/winapp[@packagename='Microsoft.WindowsCalculator']/?/?/container[@automationid='StandardOperators']/button[@automationid='minusButton']"
+				itempath="?/?/container[@automationid='StandardOperators']/button[@automationid='minusButton']"
+				fullname="CalculatorRepository.Calculator.MinusButton"
+				id="cb97fd9747b9499fa3b84dfdc37cec42"
+				timeout="60000"
+				codefile="C:\Users\User\Documents\Ranorex\RanorexStudio Projects\MyTest1\Calculator\Recording1.cs"
+				codeline="110"
+				itemindex="7"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.182"
+			timeRelativeToTestModuleStartTime="00:11.182"
+			timeWallClock="06:00:53"
+			time="00:11.182"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left DoubleClick item 'Calculator.Text1' at 5;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/winapp[@packagename='Microsoft.WindowsCalculator']//button[@automationid='num1Button']/text[@name='1']"
+				itempath=".//button[@automationid='num1Button']/text[@name='1']"
+				fullname="CalculatorRepository.Calculator.Text1"
+				id="6c693609cd104aeb9eed944ae86725be"
+				timeout="60000"
+				codefile="C:\Users\User\Documents\Ranorex\RanorexStudio Projects\MyTest1\Calculator\Recording1.cs"
+				codeline="114"
+				itemindex="8"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.300"
+			timeRelativeToTestModuleStartTime="00:12.300"
+			timeWallClock="06:00:54"
+			time="00:12.300"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Calculator.Text1' at 5;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/winapp[@packagename='Microsoft.WindowsCalculator']//button[@automationid='num1Button']/text[@name='1']"
+				itempath=".//button[@automationid='num1Button']/text[@name='1']"
+				fullname="CalculatorRepository.Calculator.Text1"
+				id="6c693609cd104aeb9eed944ae86725be"
+				timeout="60000"
+				codefile="C:\Users\User\Documents\Ranorex\RanorexStudio Projects\MyTest1\Calculator\Recording1.cs"
+				codeline="118"
+				itemindex="9"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:13.342"
+			timeRelativeToTestModuleStartTime="00:13.342"
+			timeWallClock="06:00:55"
+			time="00:13.342"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Calculator.EqualButton' at 23;27.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/winapp[@packagename='Microsoft.WindowsCalculator']/?/?/container[@automationid='StandardOperators']/button[@automationid='equalButton']"
+				itempath="?/?/container[@automationid='StandardOperators']/button[@automationid='equalButton']"
+				fullname="CalculatorRepository.Calculator.EqualButton"
+				id="5f28eaf88f6043eb8fa8695e6b4f35ab"
+				timeout="60000"
+				codefile="C:\Users\User\Documents\Ranorex\RanorexStudio Projects\MyTest1\Calculator\Recording1.cs"
+				codeline="122"
+				itemindex="10"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>
