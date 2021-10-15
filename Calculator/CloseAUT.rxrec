@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="51a07cff-ef8f-480c-b053-baf88dbcc47c"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="CloseAUT"
+	namespace="Calculator">
+	</codegen>
+	<variables>
+		<var
+		id="53efb393-8a54-4291-9e2a-676105c7d985"
+		name="CloseAutProcessIDVar">
+			-1
+		</var>
+	</variables>
+	<recorditems>
+		<closeapprecorditem
+		enabled="True"
+		graceperiod="500ms"
+		method="CloseWindowByProcessID"
+		optional="False"
+		searchpropertyid="8c89a44b-0147-483a-8539-026c550ec76d">
+			<comment>
+			</comment>
+			<bindings>
+				<binding
+				target="ProcessID"
+				variable="CloseAutProcessIDVar">
+				</binding>
+			</bindings>
+			<info
+			id="235a2825-f618-436f-b3bf-657757e5ca4a"
+			sourcename="ItemRecorderEditor">
+				<path>
+					/winapp[@packagename='Microsoft.WindowsCalculator']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+		</closeapprecorditem>
+	</recorditems>
+	<repository
+	id="f16f1b0b-d61d-434b-91d1-ee51ebcb5fc8"
+	name="CalculatorRepository"
+	relativepath="CalculatorRepository.rxrep">
+		<codegen
+		classname="CalculatorRepository"
+		namespace="Calculator">
+		</codegen>
+		<rootfolder
+		id="34154824-d41a-4091-8ee2-96c80b0066be"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		CloseAUT.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

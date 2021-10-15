@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="6b416d9b-48b0-4813-ad5c-b5e7b7fd2afb"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="StartAUT"
+	namespace="Calculator">
+	</codegen>
+	<variables>
+		<var
+		id="db21ad08-a591-47ae-9a4d-2f8ac5bc2f77"
+		name="StartAutProcessIDVar">
+		</var>
+	</variables>
+	<recorditems>
+		<runapprecorditem
+		enabled="True"
+		maximized="False"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+				<binding
+				target="ReturnVariable"
+				variable="StartAutProcessIDVar">
+				</binding>
+			</bindings>
+			<filename>
+				C:\Windows\System32\calc.exe
+			</filename>
+			<args>
+			</args>
+		</runapprecorditem>
+	</recorditems>
+	<repository
+	id="f16f1b0b-d61d-434b-91d1-ee51ebcb5fc8"
+	name="CalculatorRepository"
+	relativepath="CalculatorRepository.rxrep">
+		<codegen
+		classname="CalculatorRepository"
+		namespace="Calculator">
+		</codegen>
+		<rootfolder
+		id="34154824-d41a-4091-8ee2-96c80b0066be"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		StartAUT.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
